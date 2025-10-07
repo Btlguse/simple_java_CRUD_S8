@@ -3,7 +3,8 @@ Travel Agency Management System - Java CRUD Application. This project demonstrat
 
 
 
-MySql Script:
+## MySql Script:
+```sql
 CREATE DATABASE test_agency_g8;
 USE test_agency_g8;
 
@@ -39,3 +40,4 @@ CREATE TABLE factura (
     estado ENUM('PENDIENTE', 'PAGADA', 'ANULADA') DEFAULT 'PENDIENTE',
     FOREIGN KEY (id_reserva) REFERENCES reserva(id_reserva)
 );
+```
