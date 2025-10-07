@@ -1,0 +1,17 @@
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\com\ug\proyecto_g8\Proyecto_g8.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\controlador\ClienteController.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\controlador\FacturaController.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\controlador\ReservaController.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\modelo\Cliente.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\modelo\ClienteDAO.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\modelo\Factura.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\modelo\FacturaDAO.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\modelo\Reserva.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\modelo\ReservaDAO.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\util\ConexionMySQL.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\util\ValidacionCliente.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\util\ValidacionReserva.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\vista\ClientePanel.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\vista\FacturaPanel.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\vista\MainView.java
+C:\Users\javi\Desktop\flutter pj\proyecto_g8\src\main\java\vista\ReservaPanel.java
