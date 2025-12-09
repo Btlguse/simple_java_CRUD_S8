@@ -5,7 +5,7 @@ Travel Agency Management System - Java CRUD Application. This project demonstrat
 
 ## MySql Script:
 ```sql
-CREATE DATABASE test_agency_g8;
+CREATE DATABASE travel_agency_g8;
 USE travel_agency_g8;
 
 -- Cliente table
