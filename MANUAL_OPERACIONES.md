@@ -4,7 +4,7 @@
 **Proyecto:** simple_java_CRUD_S8  
 **Versión:** 1.0-SNAPSHOT  
 **Última actualización:** Febrero 2026  
-**Organización:** Universidad de Guatemala - Grupo 8
+**Organización:** Universidad de Guayaquil - Grupo 8
 
 ---
 
@@ -17,9 +17,9 @@
 5. [Gestión de Base de Datos](#5-gestión-de-base-de-datos)
 6. [Operación de la Aplicación](#6-operación-de-la-aplicación)
 7. [Gestión Maven](#7-gestión-maven)
-8. [Pruebas y Calidad de Código](#9-pruebas-y-calidad-de-código)
-9. [Mantenimiento y Solución de Problemas](#10-mantenimiento-y-solución-de-problemas)
-10. [Glosario Técnico](#11-glosario-técnico)
+8. [Pruebas y Calidad de Código](#8-pruebas-y-calidad-de-código)
+9. [Mantenimiento y Solución de Problemas](#9-mantenimiento-y-solución-de-problemas)
+10. [Glosario Técnico](#10-glosario-técnico)
 
 ---
 
